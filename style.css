@@ -8,10 +8,11 @@ header{height: 180px;width: 900px;margin: 0 auto;}
         
         .change{width: 900px;height: auto;margin: 0 auto;}
         .change ul{display: flex; justify-content: center; list-style:none;}
-        .change img:hover{border: 5px #780000 solid;}
+        .change img:hover{border: 5px #df220c solid;}
         .change img:active{box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .2);
         }
         .box1{width: 180px; height: 150px; position: relative;}
         .box2{width: 100px;height: 100px;position: absolute;top:-15px;left:-15px;}
         .box2:active{opacity: 0;}
         .box3{width: 100px;height: 100px;position: absolute;top:-15px;left:-15px;}
+        
